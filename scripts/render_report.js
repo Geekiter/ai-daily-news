@@ -7,7 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const COLUMNS = ['AI模型', '产品与功能更新', '技术博客', '新产品项目', '社区热议'];
+const COLUMNS = ['AI模型', '产品与功能更新', 'agent 落地', '语音/外呼 agent', 'github 热门项目', '技术博客', '博主社区', 'agent 设计论文', '社区热议'];
 const ROOT = path.resolve(__dirname, '..');
 const REPORTS_DIR = path.join(ROOT, 'reports');
 const README_PATH = path.join(ROOT, 'README.md');
