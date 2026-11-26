@@ -1,0 +1,8 @@
+# 临时数据文件（日报发布后删除）
+tmp_news.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+node_modules/
