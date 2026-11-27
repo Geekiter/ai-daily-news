@@ -1,0 +1,14 @@
+title: AI 每日日报
+description: 在 GitHub 上公开归档的 AI 行业每日日报
+theme: jekyll-theme-cayman
+
+# 让 reports/*.md（无 front matter）也渲染成 HTML 页面
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+exclude:
+  - scripts
+  - README.md
