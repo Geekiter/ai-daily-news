@@ -9,6 +9,7 @@
 ## 日报索引
 
 <!-- REPORTS:START -->
+- [2026-11-27](reports/2026-11-27.md)
 - [2026-11-26](reports/2026-11-26.md)
 <!-- REPORTS:END -->
 
