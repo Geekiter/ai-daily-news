@@ -2,7 +2,7 @@
 
 在 GitHub 上公开归档的 AI 行业每日日报。
 
-- **在线阅读**（GitHub Pages）：https://geekiter.github.io/ai-daily-news/
+- **在线阅读**（GitHub Pages）：https://blog.chenkeyan.com/ai-daily-news/
 - **日报归档**：按日期存放在 [`reports/`](reports/)，文件名为 `YYYY-MM-DD.md`。
 - **如何获取**：读取 `reports/` 下最新日期的文件，或看下方索引；raw 地址形如
   `https://raw.githubusercontent.com/Geekiter/ai-daily-news/main/reports/<YYYY-MM-DD>.md`。
